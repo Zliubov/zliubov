@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python for data analysis & German for conversations analysis.
+- 📫 How to reach me: zliubov@pm.me
+- 💬 Ask me about clicker training. 
+- ⚡ Fun fact: I have two cats, one is red, one has heterohromia.  
+
+
 <!--
 **Zliubov/zliubov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
